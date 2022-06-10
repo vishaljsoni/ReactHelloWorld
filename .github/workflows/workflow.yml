@@ -16,8 +16,11 @@ jobs:
       with:
         node-version: 16.x
         cache: 'npm'
-    - run: |
+    - name: build app
+      run: |
         cd hello-world
         npm ci
         npm run build --if-present
+    - name: test app
+      run: |
         npm test App.test.js
