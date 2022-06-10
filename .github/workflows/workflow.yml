@@ -23,4 +23,5 @@ jobs:
         npm run build --if-present
     - name: test app
       run: |
+        cd hello-world
         npm test App.test.js
