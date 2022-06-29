@@ -1,5 +1,5 @@
 # ReactHelloWorld
-a Codespaces/React hello world sample 
+a Codespaces/React hello world sample. See the https://github.com/github/customer-success-architects/blob/main/ChalkTalks/Codespaces.md for more details.
 
 ## To use
 1. In the terminal, browse to the src directory `cd hello-world/src`
