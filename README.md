@@ -6,4 +6,6 @@ a Codespaces/React hello world sample. See the [chalk talk](https://github.com/g
 2. To setup `npm install`
 3. To build `npm run build`
 4. To test `npm test App.test.js`
-5. to run `npm run start` 
+5. to run `npm run start`
+
+This is a Pull request to review my code changes. I am going to mke sme spalling misTakes.
